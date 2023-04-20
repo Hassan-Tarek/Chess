@@ -1,0 +1,13 @@
+Hassan
+Ahmed
+1
+(R,Black,0) (N,Black,0) (B,Black,0) (Q,Black,0) (K,Black,0) (B,Black,0) (N,Black,0) (R,Black,0)
+- (P,Black,0) (P,Black,0) (P,Black,0) - (P,Black,0) - (P,Black,0)
+- - - - - - (P,Black,1) -
+(P,Black,1) - - - (Q,White,1) - - -
+- - (B,White,1) - (P,White,1) - - -
+- - - - - - - -
+(P,White,0) (P,White,0) (P,White,0) (P,White,0) - (P,White,0) (P,White,0) (P,White,0)
+(R,White,0) (N,White,0) (B,White,0) - (K,White,0) - (N,White,0) (R,White,0)
+White: 
+Black: P
